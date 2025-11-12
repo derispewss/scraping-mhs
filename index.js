@@ -79,6 +79,6 @@ const search = async (keyword, pilihan) => {
     }
 };
 
-search("A11.2025", 1)
+search("A11.2023", 1)
     .then(console.log)
     .catch(console.error);
